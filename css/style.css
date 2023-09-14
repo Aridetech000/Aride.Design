@@ -218,8 +218,8 @@ body {
     align-items: center;
     position: absolute;
     /* top: -50%; */
-    width: 100vw;
-    min-height: inherit;
+    width: 2000px;
+    min-height: 2000px;
     background-color: #82af9a;
     border-radius: 50%;
     display: flex;
